@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Greeting
-        run: 
+        run: |
           echo "Hello, everyone"
           echo "okay"
 
